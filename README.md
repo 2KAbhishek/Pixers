@@ -13,6 +13,11 @@ pixers is a online image gallery that allows anyone to search and view images.
 
 ## Run Locally
 
+Before you begin, ensure you have met the following requirements:
+
+- You have to get an api key from pixabay.
+- Put the key in .env file.
+
 ```bash
 git clone https://github.com/2kabhishek/pixers
 cd pixers
