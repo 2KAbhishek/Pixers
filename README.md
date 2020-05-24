@@ -9,38 +9,13 @@
 ![Contributors](https://img.shields.io/github/contributors/2kabhishek/pixers?style=plastic&color=ff69b4&label=Contributors)
 ![Followers](https://img.shields.io/github/followers/2kabhishek?style=plastic&color=blue&label=Followers)
 
-pixers is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+pixers is a online image gallery that allows anyone to search and view images.
 
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* You have installed the latest version of `<coding_language/dependency/requirement_1>`
-
-## Installing pixers
-
-To install pixers, follow these steps:
-
-Linux & Mac OS:
+## Run Locally
 
 ```bash
 git clone https://github.com/2kabhishek/pixers
 cd pixers
-<install_command>
+yarn
+yarn start
 ```
-
-Windows:
-
-```bash
-<install_command>
-```
-
-## Using pixers
-
-To use pixers, follow these steps:
-
-```bash
-<usage_example>
-```
-### More Info
-
