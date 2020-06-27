@@ -1,5 +1,3 @@
-<div align="center">
-
 # pixers
 
 ![Size](https://img.shields.io/github/repo-size/2kabhishek/pixers?style=plastic&color=0f0&label=Size)
@@ -12,7 +10,6 @@
 
 pixers is a online image gallery that allows anyone to search and view images.
 
-</div>
 
 ## Run Locally
 
@@ -27,5 +24,4 @@ cd pixers
 yarn
 yarn start
 ```
-Please consider hitting the ⭐ star button if this repo was useful to you, any contributions and suggestions are welcome.
 
